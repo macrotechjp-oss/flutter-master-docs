@@ -1,22 +1,32 @@
+## Hugoのコンテンツテンプレートとなるディレクトリパス
+#archetypeDir = ""
+## HugoがHugoPipesで使用されるアセットファイルを見つけるディレクトリパス
+#AssetDir = ""
+## 公開Page ルートへのホスト名（およびパス）
 baseURL = "https://macrotechjp-oss.github.io/flutter-master-docs"
-
+## 相対URLを絶対URLに変換できるかどうか(デフォルトは出来ない)
+canonifyurls = true
+## 言語インジケーターのないコンテンツのデフォルト言語
+defaultContentLanguage = "en"
+## デフォルトのコンテンツ言語をサブディレクトリにレンダリング
+defaultContentLanguageInSubdir= false
+## 翻訳が欠落している場合は、デフォルト値または空の文字列の代わりにプレースホルダーを表示
+enableMissingTranslationPlaceholders = false
+## trueの場合、コンテンツ内の中国語/日本語/韓国語を自動検出する
+hasCJKLanguage = true
+## サイトの言語コード
 languageCode = "ja"
-DefaultContentLanguage = "en"
+## Hugoが最終的な静的サイトを書き込むディレクトリパス
+publishDir = "docs"
+## ウェブサイト名
 title = "Flutter-master Docs"
+## 使用するテーマ
 theme = "hugo-theme-techdoc"
 
-publishDir = "docs"
-canonifyurls = true
-
-hasCJKLanguage = true
-metaDataFormat = "yaml"
-
-defaultContentLanguage = "en"
-defaultContentLanguageInSubdir= false
-enableMissingTranslationPlaceholders = false
+[blackfriday]
+    hrefTargetBlank = true
 
 [params]
-
     # Source Code repository section
     # description = "put your description"
     github_repository = "https://github.com/MacrotechJP-OSS/flutter-master-docs"
@@ -24,7 +34,7 @@ enableMissingTranslationPlaceholders = false
 
     # Documentation repository section
     # documentation repository (set edit link to documentation repository)
-    github_doc_repository = "https://github.com/thingsym/hugo-theme-techdoc"
+    github_doc_repository = "https://github.com/MacrotechJP-OSS/flutter-master-docs"
 
     # Analytic section
     google_analytics_id = "" # Your Google Analytics tracking id
@@ -42,7 +52,7 @@ enableMissingTranslationPlaceholders = false
     # Theme color
     # See color value reference https://developer.mozilla.org/en-US/docs/Web/CSS/color
     custom_font_color = ""
-    custom_background_color = ""
+    custom_background_color = "linear-gradient(to right,#0693e3,#00dcff)"
 
     # Documentation Menu section
     # Menu style settings
@@ -71,21 +81,13 @@ enableMissingTranslationPlaceholders = false
 
 # Global menu section
 # See https://gohugo.io/content-management/menus/
-[menu]
-    [[menu.main]]
-        name = "Home"
-        url = "/"
-        weight = 1
-
-    [[menu.main]]
-        name = "Twitter"
-        url = "https://twitter.com/thingsym"
-        weight = 2
 
 # Markup configure section
 # See https://gohugo.io/getting-started/configuration-markup/
 [markup]
     defaultMarkdownHandler = "goldmark"
+    [markup.blackFriday]
+        hrefTargetBlank = true
     [markup.goldmark.renderer]
         unsafe= true
     [markup.tableOfContents]
@@ -119,3 +121,14 @@ enableMissingTranslationPlaceholders = false
         "tags",
         "categories",
     ]
+
+[menu]
+    [[menu.main]]
+        name = "Home"
+        url = "/"
+        weight = 1
+
+    [[menu.main]]
+        name = "Twitter"
+        url = "https://twitter.com/thingsym"
+        weight = 2
