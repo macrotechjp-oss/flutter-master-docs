@@ -9,7 +9,7 @@ images:
 - images/pexels-photo-196666.jpeg
 ---
 
-# Hugo Techdoc Theme
+# Flutter Master
 
 ## The Techdoc is a Hugo Theme for technical documentation.
 

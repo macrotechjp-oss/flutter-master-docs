@@ -19,7 +19,7 @@ languageCode = "ja"
 ## Hugoが最終的な静的サイトを書き込むディレクトリパス
 publishDir = "docs"
 ## ウェブサイト名
-title = "Flutter-master Docs"
+title = "Flutter Master Docs"
 ## 使用するテーマ
 theme = "hugo-theme-techdoc"
 

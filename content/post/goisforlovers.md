@@ -1,5 +1,5 @@
 +++
-title = "(Hu)go Template Primer"
+title = "About Flutter Master"
 description = ""
 tags = [
     "go",
