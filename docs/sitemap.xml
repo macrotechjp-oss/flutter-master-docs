@@ -18,6 +18,11 @@
   </url>
   
   <url>
+    <loc>https://macrotechjp-oss.github.io/flutter-master-docs/post/develop-flutter-master/</loc>
+    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://macrotechjp-oss.github.io/flutter-master-docs/post/migrate-from-jekyll/</loc>
     <lastmod>2014-03-10T00:00:00+00:00</lastmod>
   </url>
@@ -33,6 +38,11 @@
   </url>
   
   <url>
+    <loc>https://macrotechjp-oss.github.io/flutter-master-docs/post/develop-docs/</loc>
+    <lastmod>2021-02-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://macrotechjp-oss.github.io/flutter-master-docs/getting-started/configuration/</loc>
     <lastmod>2019-10-26T15:26:15+00:00</lastmod>
   </url>
@@ -40,6 +50,51 @@
   <url>
     <loc>https://macrotechjp-oss.github.io/flutter-master-docs/getting-started/screenshot/</loc>
     <lastmod>2019-10-26T15:26:15+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://macrotechjp-oss.github.io/flutter-master-docs/categories/</loc>
+    <lastmod>2021-02-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://macrotechjp-oss.github.io/flutter-master-docs/categories/development/</loc>
+    <lastmod>2021-02-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://macrotechjp-oss.github.io/flutter-master-docs/tags/development/</loc>
+    <lastmod>2021-02-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://macrotechjp-oss.github.io/flutter-master-docs/tags/go/</loc>
+    <lastmod>2021-02-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://macrotechjp-oss.github.io/flutter-master-docs/tags/golang/</loc>
+    <lastmod>2021-02-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://macrotechjp-oss.github.io/flutter-master-docs/categories/golang/</loc>
+    <lastmod>2021-02-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://macrotechjp-oss.github.io/flutter-master-docs/tags/hugo/</loc>
+    <lastmod>2021-02-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://macrotechjp-oss.github.io/flutter-master-docs/post/</loc>
+    <lastmod>2021-02-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://macrotechjp-oss.github.io/flutter-master-docs/tags/</loc>
+    <lastmod>2021-02-16T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -113,11 +168,6 @@
   </url>
   
   <url>
-    <loc>https://macrotechjp-oss.github.io/flutter-master-docs/post/</loc>
-    <lastmod>2014-09-28T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://macrotechjp-oss.github.io/flutter-master-docs/about/</loc>
     <lastmod>2014-04-09T00:00:00+00:00</lastmod>
   </url>
@@ -128,47 +178,7 @@
   </url>
   
   <url>
-    <loc>https://macrotechjp-oss.github.io/flutter-master-docs/categories/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://macrotechjp-oss.github.io/flutter-master-docs/categories/development/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://macrotechjp-oss.github.io/flutter-master-docs/tags/development/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://macrotechjp-oss.github.io/flutter-master-docs/post/hugoisforlovers/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://macrotechjp-oss.github.io/flutter-master-docs/tags/go/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://macrotechjp-oss.github.io/flutter-master-docs/tags/golang/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://macrotechjp-oss.github.io/flutter-master-docs/categories/golang/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://macrotechjp-oss.github.io/flutter-master-docs/tags/hugo/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://macrotechjp-oss.github.io/flutter-master-docs/tags/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
   </url>
   

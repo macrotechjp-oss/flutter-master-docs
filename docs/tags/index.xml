@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on Flutter-master Docs</title>
+    <title>Tags on Flutter Master Docs</title>
     <link>https://macrotechjp-oss.github.io/flutter-master-docs/tags/</link>
-    <description>Recent content in Tags on Flutter-master Docs</description>
+    <description>Recent content in Tags on Flutter Master Docs</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
-    <lastBuildDate>Wed, 02 Apr 2014 00:00:00 +0000</lastBuildDate><atom:link href="https://macrotechjp-oss.github.io/flutter-master-docs/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 16 Feb 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://macrotechjp-oss.github.io/flutter-master-docs/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>development</title>
       <link>https://macrotechjp-oss.github.io/flutter-master-docs/tags/development/</link>
-      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 16 Feb 2021 00:00:00 +0000</pubDate>
       
       <guid>https://macrotechjp-oss.github.io/flutter-master-docs/tags/development/</guid>
       <description></description>
@@ -19,7 +19,7 @@
     <item>
       <title>go</title>
       <link>https://macrotechjp-oss.github.io/flutter-master-docs/tags/go/</link>
-      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 16 Feb 2021 00:00:00 +0000</pubDate>
       
       <guid>https://macrotechjp-oss.github.io/flutter-master-docs/tags/go/</guid>
       <description></description>
@@ -28,7 +28,7 @@
     <item>
       <title>golang</title>
       <link>https://macrotechjp-oss.github.io/flutter-master-docs/tags/golang/</link>
-      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 16 Feb 2021 00:00:00 +0000</pubDate>
       
       <guid>https://macrotechjp-oss.github.io/flutter-master-docs/tags/golang/</guid>
       <description></description>
@@ -37,7 +37,7 @@
     <item>
       <title>hugo</title>
       <link>https://macrotechjp-oss.github.io/flutter-master-docs/tags/hugo/</link>
-      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 16 Feb 2021 00:00:00 +0000</pubDate>
       
       <guid>https://macrotechjp-oss.github.io/flutter-master-docs/tags/hugo/</guid>
       <description></description>

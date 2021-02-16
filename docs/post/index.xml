@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on Flutter-master Docs</title>
+    <title>Posts on Flutter Master Docs</title>
     <link>https://macrotechjp-oss.github.io/flutter-master-docs/post/</link>
-    <description>Recent content in Posts on Flutter-master Docs</description>
+    <description>Recent content in Posts on Flutter Master Docs</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
-    <lastBuildDate>Sun, 28 Sep 2014 00:00:00 +0000</lastBuildDate><atom:link href="https://macrotechjp-oss.github.io/flutter-master-docs/post/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 16 Feb 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://macrotechjp-oss.github.io/flutter-master-docs/post/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Creating a New Theme</title>
       <link>https://macrotechjp-oss.github.io/flutter-master-docs/post/creating-a-new-theme/</link>
@@ -15,6 +15,20 @@
       <guid>https://macrotechjp-oss.github.io/flutter-master-docs/post/creating-a-new-theme/</guid>
       <description>Introduction This tutorial will show you how to create a simple theme in Hugo. I assume that you are familiar with HTML, the bash command line, and that you are comfortable using Markdown to format content. I&amp;rsquo;ll explain how Hugo uses templates and how you can organize your templates to create a theme. I won&amp;rsquo;t cover using CSS to style your theme.
 We&amp;rsquo;ll start with creating a new site with a very basic template.</description>
+    </item>
+    
+    <item>
+      <title>Develop on Flutter Master</title>
+      <link>https://macrotechjp-oss.github.io/flutter-master-docs/post/develop-flutter-master/</link>
+      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://macrotechjp-oss.github.io/flutter-master-docs/post/develop-flutter-master/</guid>
+      <description>Step 1. Install Hugo Go to Hugo releases and download the appropriate version for your OS and architecture.
+Save it somewhere specific as we will be using it in the next step.
+More complete instructions are available at Install Hugo
+Step 2. Build the Docs Hugo has its own example site which happens to also be the documentation site you are reading right now.
+Follow the following steps:
+ Clone the Hugo repository Go into the repo Run hugo in server mode and build the docs Open your browser to http://localhost:1313  Corresponding pseudo commands:</description>
     </item>
     
     <item>
@@ -29,7 +43,16 @@ We&amp;rsquo;ll start with creating a new site with a very basic template.</desc
     </item>
     
     <item>
-      <title>(Hu)go Template Primer</title>
+      <title>Develop on Docs</title>
+      <link>https://macrotechjp-oss.github.io/flutter-master-docs/post/develop-docs/</link>
+      <pubDate>Tue, 16 Feb 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://macrotechjp-oss.github.io/flutter-master-docs/post/develop-docs/</guid>
+      <description>Getting Starting 1. Hugo Install 2. Git Clone 3. Hugo Start-up Creating 4. Hugo PublicDir Create Deploying 5. Git Commit &amp;amp; Push Other Information Docs Configration Getting Starting 1. Hugo Install Install the HugoCLI.(https://gohugo.io/getting-started/installing/) # Use Mac Case brew install hugo # Use Windows Case(PowerShell) choco install hugo -confirm 2. Git Clone Clone the Docs source code. git clone https://github.com/MacrotechJP-OSS/flutter-master-docs.git 3. Hugo Start-up Start hugo server. hugo server Creating 4.</description>
+    </item>
+    
+    <item>
+      <title>About Flutter Master</title>
       <link>https://macrotechjp-oss.github.io/flutter-master-docs/post/goisforlovers/</link>
       <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
       
