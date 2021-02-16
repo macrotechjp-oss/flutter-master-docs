@@ -1,5 +1,5 @@
 +++
-title = "Getting Started on Docs"
+title = "Develop on Docs"
 description = ""
 tags = [
     "go",
@@ -15,16 +15,42 @@ categories = [
 menu = "main"
 +++
 
-* [**Getting Starting**](#step-1-install-hugo)
-  * [1. Hugo Install](#step-1-install-hugo)
-  * [2. Git Clone](#step-1-install-hugo)
-  * [3. Hugo Start-up](#step-1-install-hugo)
-* [**Creating**](#step-1-install-hugo)
-  * [4. Hugo PublicDir Create](#step-1-install-hugo)
-* [**Deploying**](#step-1-install-hugo)
-  * [5. Git Commit & Push](#step-1-install-hugo)
-* [**Other Information**](#step-1-install-hugo)
-  * [Docs Configration](#step-1-install-hugo)
+* **Getting Starting**
+  * [1. Hugo Install](#1-hugo-install)
+  * [2. Git Clone](#2-git-clone)
+  * [3. Hugo Start-up](#3-hugo-start-up)
+* **Creating**
+  * [4. Hugo PublicDir Create](#4-hugo-publicdir-create)
+* **Deploying**
+  * [5. Git Commit & Push](#5-git-commit--push)
+* **Other Information**
+  * [Docs Configration](#docs-configration)
+
+## Getting Starting
+###  1. Hugo Install
+Install the HugoCLI.(https://gohugo.io/getting-started/installing/) 
+```bash
+# Use Mac Case
+brew install hugo
+# Use Windows Case(PowerShell)
+choco install hugo -confirm
+```
+
+### 2. Git Clone
+
+### 3. Hugo Start-up
+
+## Creating
+
+### 4. Hugo PublicDir Create
+
+## Deploying
+
+### 5. Git Commit & Push
+
+## Other Information
+
+### Docs Configration
 
 ## Step 1. Install Hugo
 
