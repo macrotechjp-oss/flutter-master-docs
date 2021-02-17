@@ -64,7 +64,8 @@ After the push is complete, the contents of Github pages will be updated automat
 ├── data            .. サイトの全ページから参照したいデータを記述したファイルを置くディレクトリ
 ├── docs            .. 本番公開用のHTMLが作成されるディレクトリ
 ├── layouts         .. themes においたテーマファイルの一部修正やレイアウトパーツを追加するディレクトリ
-├── resources       .. 静的ファイル（スタイルシート、JavaScript や画像ファイルなど）を配置するディレクトリ
+├── static          .. 静的ファイル（スタイルシート、JavaScript や画像ファイルなど）を配置するディレクトリ
+├── themes          .. 利用するhugoテーマファイルを配置するディレクトリ
 ├── config.toml     .. Hugoの設定ファイル
 ├── LICENSE         .. MIT License
 └── README.md       .. リポジトリの概要情報を記載

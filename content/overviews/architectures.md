@@ -5,9 +5,11 @@ lastmod: 2019-10-26T15:26:15Z
 weight: 20
 ---
 
-You may specify options in config.toml (or config.yaml/config.json) of your site to make use of this theme’s features.
+![モック画像](https://software.fujitsu.com/jp/manual/manualfiles/M070076/B1FW5421/01Z200/gensrc/010302_1.gif)
 
-For an example of `config.toml`, see [config.toml](https://github.com/thingsym/hugo-theme-techdoc/blob/master/exampleSite/config.toml) in exampleSite.
+<img src="/images/icon-vuejs.png" style="width:33%;height:150px;object-fit:contain;background:white;border: solid 1px lightgray;">
+<img src="/images/icon-quasar-framework.png" style="width:33%;height:150px;object-fit:contain;background:white;border: solid 1px lightgray;">
+<img src="/images/icon-flutter.png" style="width:33%;height:150px;object-fit:contain;background:white;border: solid 1px lightgray;">
 
 ## Params
 
