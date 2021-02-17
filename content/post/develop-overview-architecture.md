@@ -1,14 +1,9 @@
 ---
-author: "Michael Henderson"
+author: "Koyo Tanaka"
 date: 2014-09-28
-linktitle: Creating a New Theme
-menu:
-  main:
-    parent: Tutorials
 next: /tutorials/github-pages-blog
 prev: /tutorials/automated-deployments
 title: Creating a New Theme
-weight: 10
 ---
 
 

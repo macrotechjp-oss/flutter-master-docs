@@ -70,6 +70,7 @@ theme = "hugo-theme-techdoc"
         "entry",
         "post",
         "posts",
+        "start-development"
     ]
 
     # Algolia site search section
@@ -129,6 +130,59 @@ theme = "hugo-theme-techdoc"
         weight = 1
 
     [[menu.main]]
-        name = "Twitter"
-        url = "https://twitter.com/thingsym"
+        name = "Overviews"
+        url = "/overviews"
         weight = 2
+
+    [[menu.main]]
+        name = "Functions"
+        parent = "Overviews"
+        url = "/overviews/functions"
+        weight = 3
+
+    [[menu.main]]
+        name = "Architectures"
+        parent = "Overviews"
+        url = "/overviews/architectures"
+        weight = 4
+
+    [[menu.main]]
+        name = "Programming"
+        parent = "Overviews"
+        url = "/overviews/programming"
+        weight = 5
+
+    [[menu.main]]
+        name = "Test"
+        parent = "Overviews"
+        url = "/overviews/test"
+        weight = 6
+
+    [[menu.main]]
+        name = "Deploy"
+        parent = "Overviews"
+        url = "/overviews/deploy"
+        weight = 7
+
+    [[menu.main]]
+        name = "Operation"
+        parent = "Overviews"
+        url = "/overviews/operation"
+        weight = 8
+
+    [[menu.main]]
+        name = "Start Development"
+        url = "/start-development"
+        weight = 9
+
+    [[menu.main]]
+        name = "Flutter Master"
+        parent = "Start Development"
+        url = "/start-development/flutter-master"
+        weight = 10
+
+    [[menu.main]]
+        name = "Docs Site"
+        parent = "Start Development"
+        url = "/start-development/docs-site"
+        weight = 11

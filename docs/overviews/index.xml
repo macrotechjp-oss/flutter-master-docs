@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Overviews on Flutter Master Docs</title>
+    <link>https://macrotechjp-oss.github.io/flutter-master-docs/overviews/</link>
+    <description>Recent content in Overviews on Flutter Master Docs</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja</language>
+    <lastBuildDate>Tue, 17 Oct 2017 15:26:15 +0000</lastBuildDate><atom:link href="https://macrotechjp-oss.github.io/flutter-master-docs/overviews/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Functions</title>
+      <link>https://macrotechjp-oss.github.io/flutter-master-docs/overviews/functions/</link>
+      <pubDate>Tue, 17 Oct 2017 15:26:15 +0000</pubDate>
+      
+      <guid>https://macrotechjp-oss.github.io/flutter-master-docs/overviews/functions/</guid>
+      <description>You may specify options in config.toml (or config.yaml/config.json) of your site to make use of this theme’s features.
+For an example of config.toml, see config.toml in exampleSite.
+Params # Source Code repository section description = &amp;quot;put your description&amp;quot; github_repository = &amp;quot;https://github.com/thingsym/hugo-theme-techdoc&amp;quot; version = &amp;quot;0.9.6&amp;quot; # Documentation repository section # documentation repository (set edit link to documentation repository) github_doc_repository = &amp;quot;https://github.com/thingsym/hugo-theme-techdoc&amp;quot; # Analytic section google_analytics_id = &amp;quot;&amp;quot; # Your Google Analytics tracking id tag_manager_container_id = &amp;quot;&amp;quot; # Your Google Tag Manager container id google_site_verification = &amp;quot;&amp;quot; # Your Google Site Verification for Search Console # Open Graph and Twitter Cards settings section # Open Graph settings for each page are set on the front matter.</description>
+    </item>
+    
+    <item>
+      <title>Architectures</title>
+      <link>https://macrotechjp-oss.github.io/flutter-master-docs/overviews/architectures/</link>
+      <pubDate>Tue, 17 Oct 2017 15:26:15 +0000</pubDate>
+      
+      <guid>https://macrotechjp-oss.github.io/flutter-master-docs/overviews/architectures/</guid>
+      <description>You may specify options in config.toml (or config.yaml/config.json) of your site to make use of this theme’s features.
+For an example of config.toml, see config.toml in exampleSite.
+Params # Source Code repository section description = &amp;quot;put your description&amp;quot; github_repository = &amp;quot;https://github.com/thingsym/hugo-theme-techdoc&amp;quot; version = &amp;quot;0.9.6&amp;quot; # Documentation repository section # documentation repository (set edit link to documentation repository) github_doc_repository = &amp;quot;https://github.com/thingsym/hugo-theme-techdoc&amp;quot; # Analytic section google_analytics_id = &amp;quot;&amp;quot; # Your Google Analytics tracking id tag_manager_container_id = &amp;quot;&amp;quot; # Your Google Tag Manager container id google_site_verification = &amp;quot;&amp;quot; # Your Google Site Verification for Search Console # Open Graph and Twitter Cards settings section # Open Graph settings for each page are set on the front matter.</description>
+    </item>
+    
+    <item>
+      <title>Programming</title>
+      <link>https://macrotechjp-oss.github.io/flutter-master-docs/overviews/programming/</link>
+      <pubDate>Tue, 17 Oct 2017 15:26:15 +0000</pubDate>
+      
+      <guid>https://macrotechjp-oss.github.io/flutter-master-docs/overviews/programming/</guid>
+      <description>You may specify options in config.toml (or config.yaml/config.json) of your site to make use of this theme’s features.
+For an example of config.toml, see config.toml in exampleSite.
+Params # Source Code repository section description = &amp;quot;put your description&amp;quot; github_repository = &amp;quot;https://github.com/thingsym/hugo-theme-techdoc&amp;quot; version = &amp;quot;0.9.6&amp;quot; # Documentation repository section # documentation repository (set edit link to documentation repository) github_doc_repository = &amp;quot;https://github.com/thingsym/hugo-theme-techdoc&amp;quot; # Analytic section google_analytics_id = &amp;quot;&amp;quot; # Your Google Analytics tracking id tag_manager_container_id = &amp;quot;&amp;quot; # Your Google Tag Manager container id google_site_verification = &amp;quot;&amp;quot; # Your Google Site Verification for Search Console # Open Graph and Twitter Cards settings section # Open Graph settings for each page are set on the front matter.</description>
+    </item>
+    
+    <item>
+      <title>Test</title>
+      <link>https://macrotechjp-oss.github.io/flutter-master-docs/overviews/test/</link>
+      <pubDate>Tue, 17 Oct 2017 15:26:15 +0000</pubDate>
+      
+      <guid>https://macrotechjp-oss.github.io/flutter-master-docs/overviews/test/</guid>
+      <description>You may specify options in config.toml (or config.yaml/config.json) of your site to make use of this theme’s features.
+For an example of config.toml, see config.toml in exampleSite.
+Params # Source Code repository section description = &amp;quot;put your description&amp;quot; github_repository = &amp;quot;https://github.com/thingsym/hugo-theme-techdoc&amp;quot; version = &amp;quot;0.9.6&amp;quot; # Documentation repository section # documentation repository (set edit link to documentation repository) github_doc_repository = &amp;quot;https://github.com/thingsym/hugo-theme-techdoc&amp;quot; # Analytic section google_analytics_id = &amp;quot;&amp;quot; # Your Google Analytics tracking id tag_manager_container_id = &amp;quot;&amp;quot; # Your Google Tag Manager container id google_site_verification = &amp;quot;&amp;quot; # Your Google Site Verification for Search Console # Open Graph and Twitter Cards settings section # Open Graph settings for each page are set on the front matter.</description>
+    </item>
+    
+    <item>
+      <title>Deploy</title>
+      <link>https://macrotechjp-oss.github.io/flutter-master-docs/overviews/deploy/</link>
+      <pubDate>Tue, 17 Oct 2017 15:26:15 +0000</pubDate>
+      
+      <guid>https://macrotechjp-oss.github.io/flutter-master-docs/overviews/deploy/</guid>
+      <description>You may specify options in config.toml (or config.yaml/config.json) of your site to make use of this theme’s features.
+For an example of config.toml, see config.toml in exampleSite.
+Params # Source Code repository section description = &amp;quot;put your description&amp;quot; github_repository = &amp;quot;https://github.com/thingsym/hugo-theme-techdoc&amp;quot; version = &amp;quot;0.9.6&amp;quot; # Documentation repository section # documentation repository (set edit link to documentation repository) github_doc_repository = &amp;quot;https://github.com/thingsym/hugo-theme-techdoc&amp;quot; # Analytic section google_analytics_id = &amp;quot;&amp;quot; # Your Google Analytics tracking id tag_manager_container_id = &amp;quot;&amp;quot; # Your Google Tag Manager container id google_site_verification = &amp;quot;&amp;quot; # Your Google Site Verification for Search Console # Open Graph and Twitter Cards settings section # Open Graph settings for each page are set on the front matter.</description>
+    </item>
+    
+    <item>
+      <title>Operation</title>
+      <link>https://macrotechjp-oss.github.io/flutter-master-docs/overviews/operation/</link>
+      <pubDate>Tue, 17 Oct 2017 15:26:15 +0000</pubDate>
+      
+      <guid>https://macrotechjp-oss.github.io/flutter-master-docs/overviews/operation/</guid>
+      <description>You may specify options in config.toml (or config.yaml/config.json) of your site to make use of this theme’s features.
+For an example of config.toml, see config.toml in exampleSite.
+Params # Source Code repository section description = &amp;quot;put your description&amp;quot; github_repository = &amp;quot;https://github.com/thingsym/hugo-theme-techdoc&amp;quot; version = &amp;quot;0.9.6&amp;quot; # Documentation repository section # documentation repository (set edit link to documentation repository) github_doc_repository = &amp;quot;https://github.com/thingsym/hugo-theme-techdoc&amp;quot; # Analytic section google_analytics_id = &amp;quot;&amp;quot; # Your Google Analytics tracking id tag_manager_container_id = &amp;quot;&amp;quot; # Your Google Tag Manager container id google_site_verification = &amp;quot;&amp;quot; # Your Google Site Verification for Search Console # Open Graph and Twitter Cards settings section # Open Graph settings for each page are set on the front matter.</description>
+    </item>
+    
+  </channel>
+</rss>
