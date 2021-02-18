@@ -14,18 +14,6 @@ categories = [
 ]
 +++
 
-![2 People Sitting With View of Yellow Flowers during Daytime](/images/docs-captcha.png)
-
-* **Getting Starting**
-  * [1. Hugo Install](#1-hugo-install)
-  * [2. Git Clone](#2-git-clone)
-  * [3. Hugo Start-up](#3-hugo-start-up)
-* **Creating**
-  * [4. Hugo PublicDir Create](#4-hugo-publicdir-create)
-* **Deploying**
-  * [5. Git Commit & Push](#5-git-commit--push)
-* **Other Information**
-  * [Docs Configration](#docs-configration)
 
 {{< panel title="primary" >}}Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. <a href="https://github.com/thingsym/hugo-theme-techdoc">Ut enim ad minim veniam</a>, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.{{< /panel >}}
 

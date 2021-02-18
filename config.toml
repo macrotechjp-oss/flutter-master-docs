@@ -186,3 +186,8 @@ theme = "hugo-theme-techdoc"
         parent = "Start Development"
         url = "/start-development/docs-site"
         weight = 11
+
+    [[menu.main]]
+        name = "About Hugo"
+        url = "https://themes.gohugo.io//theme/hugo-theme-techdoc/sample/custom-shortcodes/"
+        weight = 12
