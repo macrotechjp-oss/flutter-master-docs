@@ -14,6 +14,7 @@ weight: 20
 <a target="_blank" href="https://www.docker.com/"><img src="/images/icon-docker.png" style="width:33%;height:150px;object-fit:contain;background:white;border: solid 1px lightgray;"></a>
 <a target="_blank" href="https://code.visualstudio.com/"><img src="/images/icon-vscode.png" style="width:33%;height:150px;object-fit:contain;background:white;border: solid 1px lightgray;"></a>
 <a target="_blank" href="#"><img src="/images/icon-adobe-xd.png" style="width:33%;height:150px;object-fit:contain;background:white;border: solid 1px lightgray;"></a>
+<a target="_blank" href="https://dbdiagram.io/d/602940cf80d742080a3a7520"><img src="/images/icon-dbdiagram.png" style="width:33%;height:150px;object-fit:contain;background:white;border: solid 1px lightgray;"></a>
 {{< /panel >}}
 
 {{< panel status="success" title="Infrastructure" >}}
