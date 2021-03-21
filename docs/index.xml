@@ -166,7 +166,7 @@ Params # Source Code repository section description = &amp;quot;put your descrip
       <pubDate>Tue, 16 Feb 2021 00:00:00 +0000</pubDate>
       
       <guid>https://macrotechjp-oss.github.io/flutter-master-docs/start-development/flutter-master/</guid>
-      <description>Using Docker + VSCode Using VSCode（Online） Using VSCode（Local） </description>
+      <description>Using Docker + VSCode Using VSCode（Online） Using VSCode（Local） その他情報 ディレクトリ構成 libフォルダ配下 ├── constant/ .. 値に変更がない固定値</description>
     </item>
     
     <item>

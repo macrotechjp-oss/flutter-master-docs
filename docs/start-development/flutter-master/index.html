@@ -4,7 +4,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
 <title>Flutter Master - Flutter Master Docs</title>
-<meta name="generator" content="Hugo 0.76.5" />
+<meta name="generator" content="Hugo 0.80.0" />
 <meta name="supported-color-schemes" content="light dark">
 <link rel="icon" type="image/vnd.microsoft.icon" href="https://macrotechjp-oss.github.io/flutter-master-docs/images/favicon.png">
 <link href="https://macrotechjp-oss.github.io/flutter-master-docs/index.xml" rel="alternate" type="application/rss+xml">
@@ -19,7 +19,7 @@
 :root {--custom-background-color: linear-gradient(to right,#0693e3,#00dcff);}
 </style>
 <meta property="og:title" content="Flutter Master" />
-<meta property="og:description" content="Using Docker &#43; VSCode Using VSCode（Online） Using VSCode（Local） " />
+<meta property="og:description" content="Using Docker &#43; VSCode Using VSCode（Online） Using VSCode（Local） その他情報 ディレクトリ構成 libフォルダ配下 ├── constant/ .. 値に変更がない固定値" />
 <meta property="og:type" content="article" />
 <meta property="og:url" content="https://macrotechjp-oss.github.io/flutter-master-docs/start-development/flutter-master/" />
 <meta property="og:image" content="https://macrotechjp-oss.github.io/flutter-master-docs/images/og-image.png"/>
@@ -29,12 +29,12 @@
 <meta name="twitter:image" content="https://macrotechjp-oss.github.io/flutter-master-docs/images/og-image.png"/>
 
 <meta name="twitter:title" content="Flutter Master"/>
-<meta name="twitter:description" content="Using Docker &#43; VSCode Using VSCode（Online） Using VSCode（Local） "/>
+<meta name="twitter:description" content="Using Docker &#43; VSCode Using VSCode（Online） Using VSCode（Local） その他情報 ディレクトリ構成 libフォルダ配下 ├── constant/ .. 値に変更がない固定値"/>
 <meta itemprop="name" content="Flutter Master">
-<meta itemprop="description" content="Using Docker &#43; VSCode Using VSCode（Online） Using VSCode（Local） ">
+<meta itemprop="description" content="Using Docker &#43; VSCode Using VSCode（Online） Using VSCode（Local） その他情報 ディレクトリ構成 libフォルダ配下 ├── constant/ .. 値に変更がない固定値">
 <meta itemprop="datePublished" content="2021-02-16T00:00:00+00:00" />
 <meta itemprop="dateModified" content="2021-02-16T00:00:00+00:00" />
-<meta itemprop="wordCount" content="8">
+<meta itemprop="wordCount" content="235">
 <meta itemprop="image" content="https://macrotechjp-oss.github.io/flutter-master-docs/images/og-image.png"/>
 
 
@@ -73,19 +73,36 @@
     <li><a href="#using-docker--vscode">Using Docker + VSCode</a></li>
     <li><a href="#using-vscodeonline">Using VSCode（Online）</a></li>
     <li><a href="#using-vscodelocal">Using VSCode（Local）</a></li>
+    <li><a href="#その他情報">その他情報</a>
+      <ul>
+        <li><a href="#ディレクトリ構成">ディレクトリ構成</a></li>
+      </ul>
+    </li>
   </ul>
 </nav></aside>
 
 <h2 id="using-docker--vscode">Using Docker + VSCode</h2>
 <h2 id="using-vscodeonline">Using VSCode（Online）</h2>
 <h2 id="using-vscodelocal">Using VSCode（Local）</h2>
-<div class="edit-meta">
+<h2 id="その他情報">その他情報</h2>
+<h3 id="ディレクトリ構成">ディレクトリ構成</h3>
+<p><strong>libフォルダ配下</strong></p>
+<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-bash" data-lang="bash">├── constant/     .. 値に変更がない固定値を定義
+├── extension/    .. String等の既存のライブラリへの機能追加を記述
+├── model/        .. データの保持
+├── plugin/       .. ネイティブ実装内容を記述
+├── resource/     .. 色や文字のスタイルなどを定義
+├── service/      .. API通信の処理を記述
+├── view/         .. uiのwidgetを記述
+├── view_model/   .. serviceとviewの中間で、データの変更を管理
+└── main.dart     .. 実行時呼び出されるメインファイル
+</code></pre></div><div class="edit-meta">
 Last updated on 16 Feb 2021
 
 
 <br>
 Published on 16 Feb 2021
-<br><a href="https://github.com/MacrotechJP-OSS/flutter-master-docs/edit/master/content/start-development%5cflutter-master.md" class="edit-page"><i class="fas fa-pen-square"></i> Edit on GitHub</a></div><nav class="pagination"><a class="nav nav-prev" href="https://macrotechjp-oss.github.io/flutter-master-docs/start-development/docs-site/" title="Docs Site"><i class="fas fa-arrow-left" aria-hidden="true"></i> Prev - Docs Site</a>
+<br><a href="https://github.com/MacrotechJP-OSS/flutter-master-docs/edit/master/content/start-development/flutter-master.md" class="edit-page"><i class="fas fa-pen-square"></i> Edit on GitHub</a></div><nav class="pagination"><a class="nav nav-prev" href="https://macrotechjp-oss.github.io/flutter-master-docs/start-development/docs-site/" title="Docs Site"><i class="fas fa-arrow-left" aria-hidden="true"></i> Prev - Docs Site</a>
 <a class="nav nav-next" href="https://macrotechjp-oss.github.io/flutter-master-docs/start-development-flutter-master/" title="Flutter Master">Next - Flutter Master <i class="fas fa-arrow-right" aria-hidden="true"></i></a>
 </nav><footer><p class="powered">Powered by <a href="https://gohugo.io">Hugo</a>. Theme by <a href="https://themes.gohugo.io/hugo-theme-techdoc/">TechDoc</a>. Designed by <a href="https://github.com/thingsym/hugo-theme-techdoc">Thingsym</a>.</p>
 </footer>
